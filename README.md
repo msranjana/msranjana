@@ -25,7 +25,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
 <img src="https://img.shields.io/badge/JavaScript-21232A?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/React-21232A?logo=react&logoColor=ffffff" height="28" alt="React" style="margin-right: 4px"> 
-<img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="28" alt="Vue.js" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Vue.js-21232A?logo=vue.js&logoColor=white" height="28" alt="Vue.js" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Tailwind_CSS-21232A?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/Node.js-21232A?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Python-21232A?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px">
