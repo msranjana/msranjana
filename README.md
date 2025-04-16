@@ -36,7 +36,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-21232A?logo=mongodb&logoColor=white)-->
 
 ## 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-21232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msranjana)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-21232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msranjana)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-21232A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjanams)
 
 ![Profile views](https://komarev.com/ghpvc/?username=msranjana&label=Profile%20views&color=61DAFB&style=flat)
