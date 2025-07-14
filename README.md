@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="left">👋 Hi there! I'm Ranjana</h1>
+<h1 align="left"> Hey There ! I'm Ranjana ^_^ </h1>
 
 <!-- Profile Views Badge -->
 <p align="left">
@@ -15,26 +15,31 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=msranjana&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-<!-- Tech Stack -->
-## 🛠 Tech Stack
+## 🚀 Tech Stack:
 
-### **Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-21232A?logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-21232A?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-21232A?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-21232A?logo=c%2B%2B&logoColor=white)
+<div align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
 
-### **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-21232A?logo=react&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/Vue.js-21232A?logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-21232A?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-21232A?logo=bootstrap&logoColor=white)
+  <!-- Frameworks / Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="Vue.js" />
 
-### **Backend & Tools**  
-![Node.js](https://img.shields.io/badge/Node.js-21232A?logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-21232A?logo=flask&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-21232A?logo=postman&logoColor=white)
+  <!-- Backend / Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="Postman" />
 
-### **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-21232A?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-21232A?logo=mongodb&logoColor=white)
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" />
+
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
+</div>
