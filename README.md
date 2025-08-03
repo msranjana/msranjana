@@ -7,7 +7,7 @@
 </p>
 
 <!-- About Paragraph -->
-<h3 align="left">I’m a pre-final year CSE student curious about learning and experiencing new things.</h3>
+<h3 align="left">I’m a final year CSE student curious about learning and experiencing new things.</h3>
 
 <!-- GitHub Stats -->
 <p align="left">
@@ -27,7 +27,6 @@
 
   <!-- Frameworks / Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="Vue.js" />
 
   <!-- Backend / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
