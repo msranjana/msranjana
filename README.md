@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://holopin.io/@msranj">
+    <img src="https://holopin.me/msranj" alt="Holopin badges" />
+  </a>
+</p>
+
 <!-- Header Section -->
 <h1 align="left"> Hey There ! I'm Ranjana ^_^ </h1>
 
@@ -39,4 +45,7 @@
 
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS"/>
+          
 </div>
