@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://holopin.io/@msranj">
-    <!-- <img src="https://holopin.me/msranj" alt="Holopin badges" /> -->
+    <img src="https://holopin.me/msranj" alt="Holopin badges" />
   </a>
 </p>
 
