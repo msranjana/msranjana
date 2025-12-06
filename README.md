@@ -16,10 +16,10 @@
 <h3 align="left">I’m a final year CSE student curious about learning and experiencing new things.</h3>
 
 <!-- GitHub Stats -->
-<p align="left">
+<!-- <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=msranjana&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=msranjana&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+</p> -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=msranjana" alt="GitHub Streak" /></a> -->
 
 ## 🚀 Tech Stack:
