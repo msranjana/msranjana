@@ -13,7 +13,7 @@
 </p>
 
 <!-- About Paragraph -->
-<h3 align="left">I’m a final year CSE student curious about learning and experiencing new things.</h3>
+<!--<h3 align="left">I’m a final year CSE student curious about learning and experiencing new things.</h3>-->
 
 <!-- GitHub Stats -->
 <!-- <p align="left">
