@@ -36,7 +36,6 @@
     <td><b>Frameworks & Libraries</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
