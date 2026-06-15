@@ -8,9 +8,9 @@
 <h1 align="left"> Hey There ! I'm Ranjana ^_^ </h1>
 
 <!-- Profile Views Badge -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=msranjana&label=Profile%20views&color=61DAFB&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 <!-- About Paragraph -->
 <!--<h3 align="left">I’m a final year CSE student curious about learning and experiencing new things.</h3>-->
