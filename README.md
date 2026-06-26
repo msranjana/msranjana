@@ -1,8 +1,8 @@
-<!-- <p align="center">
+ <p align="center">
   <a href="https://holopin.io/@msranj">
     <img src="https://holopin.me/msranj" alt="Holopin badges" />
   </a>
-</p> -->
+</p> 
 
 <!-- Header Section -->
 <h1 align="left"> Hey There ! I'm Ranjana ^_^ </h1>
