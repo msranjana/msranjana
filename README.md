@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ranjana</h1>
+<h1 align="center">Hey there ! I'm Ranjana ^_^</h1>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 <!--
