@@ -1,6 +1,7 @@
 <h1 align="center">Hey there ! I'm Ranjana ^_^</h1>
-
+<!--
 ![](./profile-3d-contrib/profile-night-green.svg)
+-->
 <!--
 <p align="center">
   <a href="https://holopin.io/@msranj">
